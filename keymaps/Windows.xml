@@ -1,5 +1,6 @@
 <keymap version="1" name="Windows 복사" parent="$default">
   <action id="CompareTwoFiles" />
+  <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -7,7 +8,11 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="XDebugger.CopyWatch" />
 </keymap>
