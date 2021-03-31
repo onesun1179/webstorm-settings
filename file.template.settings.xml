@@ -1,7 +1,6 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="jsx.jsx" file-name="jsx" reformat="true" live-template-enabled="false" />
       <template name="typescript.nestjs.model.ts" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
