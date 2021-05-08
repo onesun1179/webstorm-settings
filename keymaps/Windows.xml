@@ -9,6 +9,9 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="SynchronizeCurrentFile">
