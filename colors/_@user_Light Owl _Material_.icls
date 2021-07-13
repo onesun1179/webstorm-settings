@@ -1,10 +1,10 @@
 <scheme name="_@user_Light Owl (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-07-05T01:19:15</property>
+    <property name="created">2021-07-05T10:35:09</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-07-10T16:12:00</property>
+    <property name="ideVersion">2021.1.3.0.0</property>
+    <property name="modified">2021-07-13T09:54:24</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,22 +13,26 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="49d0c5" />
     <option name="ANNOTATIONS_COLOR" value="90a7b2" />
+    <option name="ActionButton.hoverBackground" value="cccccc50" />
+    <option name="ActionButton.iconTextForeground" value="90a7b2" />
+    <option name="ActionButton.pressedBackground" value="cccccc" />
+    <option name="BookmarkIcon.background" value="2aa298" />
     <option name="CARET_COLOR" value="2aa298" />
     <option name="CARET_ROW_COLOR" value="f0f0f0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fbfbfb" />
@@ -53,35 +57,62 @@
     <option name="FILESTATUS_HIJACKED" value="2aa298" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="de3d3b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d6438a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d6438a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c96765" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c96765" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c96765" />
     <option name="FILESTATUS_MERGED" value="e0af02" />
     <option name="FILESTATUS_MODIFIED" value="6fbef6" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_RENAMED" value="2aa298" />
     <option name="FILESTATUS_SUPPRESSED" value="403f53" />
-    <option name="FILESTATUS_SWITCHED" value="6fbef6" />
+    <option name="FILESTATUS_SWITCHED" value="2aa298" />
     <option name="FILESTATUS_UNKNOWN" value="4876d6" />
-    <option name="FILESTATUS_addedOutside" value="4876d6" />
-    <option name="FILESTATUS_changelistConflict" value="d6438a" />
+    <option name="FILESTATUS_addedOutside" value="2aa298" />
+    <option name="FILESTATUS_changelistConflict" value="c96765" />
     <option name="FILESTATUS_modifiedOutside" value="e0af02" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="93a1a1" />
     <option name="GUTTER_BACKGROUND" value="fbfbfb" />
     <option name="INDENT_GUIDE" value="d9d9d9" />
     <option name="INFORMATION_HINT" value="fbfbfb" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="fbfbfb" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="d3e8f8" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="e0e0e0" />
     <option name="LINE_NUMBERS_COLOR" value="90a7b2" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="403f53" />
     <option name="METHOD_SEPARATORS_COLOR" value="d9d9d9" />
     <option name="MODIFIED_LINES_COLOR" value="6fbef6" />
+    <option name="MODIFIED_TAB_ICON" value="2aa298" />
     <option name="MT_ADDED" value="49d0c5" />
     <option name="MT_DELETED" value="de3d3b" />
+    <option name="MT_FILESTATUS_ADDED" value="49d0c5" />
+    <option name="MT_FILESTATUS_COPIED" value="49d0c5" />
+    <option name="MT_FILESTATUS_DELETED" value="de3d3b" />
+    <option name="MT_FILESTATUS_HIJACKED" value="2aa298" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="de3d3b" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c96765" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c96765" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c96765" />
+    <option name="MT_FILESTATUS_MERGED" value="e0af02" />
+    <option name="MT_FILESTATUS_MODIFIED" value="6fbef6" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="MT_FILESTATUS_RENAMED" value="2aa298" />
+    <option name="MT_FILESTATUS_SUPPRESSED" value="403f53" />
+    <option name="MT_FILESTATUS_SWITCHED" value="2aa298" />
+    <option name="MT_FILESTATUS_UNKNOWN" value="4876d6" />
+    <option name="MT_FILESTATUS_addedOutside" value="2aa298" />
+    <option name="MT_FILESTATUS_changelistConflict" value="c96765" />
+    <option name="MT_FILESTATUS_modifiedOutside" value="e0af02" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="93a1a1" />
     <option name="MT_MODIFIED" value="6fbef6" />
     <option name="MT_RENAMED" value="2aa298" />
     <option name="MT_SUPPRESSED" value="403f53" />
+    <option name="MnemonicIcon.background" value="93a1a1" />
+    <option name="MnemonicIcon.borderColor" value="93a1a1" />
+    <option name="MnemonicIcon.foreground" value="403f53" />
     <option name="NOTIFICATION_BACKGROUND" value="f0f0f0" />
     <option name="NOT_CHANGED" value="403f53" />
     <option name="PROMOTION_PANE" value="d3e8f8" />
@@ -207,6 +238,11 @@
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="" />
     <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="2aa298" />
+      </value>
+    </option>
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="111111" />
@@ -603,7 +639,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="994cc3" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -765,7 +800,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a5c261" />
+        <option name="BACKGROUND" value="d5e9cd" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1179,6 +1214,17 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="403f53" />
+        <option name="BACKGROUND" value="d3e8f8" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="90a7b2" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -1221,10 +1267,21 @@
         <option name="FOREGROUND" value="111111" />
       </value>
     </option>
+    <option name="JS.ASYNC_AWAIT">
+      <value>
+        <option name="FOREGROUND" value="994cc3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="c969b" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="4876d6" />
       </value>
     </option>
     <option name="JS.DEBUGGER_STMT">
@@ -1237,6 +1294,12 @@
         <option name="FOREGROUND" value="4876d6" />
       </value>
     </option>
+    <option name="JS.GET_SET">
+      <value>
+        <option name="FOREGROUND" value="994cc3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="4876d6" />
@@ -1247,6 +1310,11 @@
       <value>
         <option name="FOREGROUND" value="4876d6" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="c969b" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1276,9 +1344,24 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.NEW">
+      <value>
+        <option name="FOREGROUND" value="c969b" />
+      </value>
+    </option>
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="bc5454" />
+      </value>
+    </option>
+    <option name="JS.PRIMITIVE">
+      <value>
+        <option name="FOREGROUND" value="bc5454" />
+      </value>
+    </option>
+    <option name="JS.PROTOTYPE">
+      <value>
+        <option name="FOREGROUND" value="c969b" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1289,6 +1372,12 @@
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="c969b" />
+      </value>
+    </option>
+    <option name="JS.YIELD">
+      <value>
+        <option name="FOREGROUND" value="994cc3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -2750,7 +2839,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="989fb1" />
+        <option name="FOREGROUND" value="343344" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2862,9 +2951,7 @@
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
-      <value>
-        <option name="FOREGROUND" value="4876d6" />
-      </value>
+      <value />
     </option>
     <option name="PHP_INTERFACE">
       <value>
@@ -2903,6 +2990,11 @@
       <value>
         <option name="FOREGROUND" value="4876d6" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="c969b" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -3566,9 +3658,36 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TS.ANY">
+      <value>
+        <option name="FOREGROUND" value="4876d6" />
+      </value>
+    </option>
+    <option name="TS.DECLARE">
+      <value>
+        <option name="FOREGROUND" value="994cc3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="c969b" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="aa0982" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.PRIM_TYPE">
+      <value>
+        <option name="FOREGROUND" value="4876d6" />
+      </value>
+    </option>
+    <option name="TS.PRIVATE_PUBLIC">
+      <value>
+        <option name="FOREGROUND" value="994cc3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
