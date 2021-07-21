@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="customTreeIndentEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="pristineConfig" value="false" />
@@ -9,6 +10,6 @@
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="fc5408a:177f077dac2:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.7.2" />
   </component>
 </application>
