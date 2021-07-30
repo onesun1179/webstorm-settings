@@ -1,0 +1,22 @@
+<templateSet group="JavaScript">
+  <template name="ctc" value="/**&#10; * CTC&#10; * @액션상세명(한글) - $KO$ &#10; * @액션상세명(영문) - $EN$&#10; * @액션상세ID      - $ID$&#10; * @ACT_DTL1       - $ACT_DTL1$&#10; * @ACT_DTL2       - $ACT_DTL2$&#10; * @ACT_DTL3       - $ACT_DTL3$&#10; * @ACT_DTL4       - $ACT_DTL4$&#10; * @ACT_DTL5       - $ACT_DTL5$&#10; * @ACT_DTL6       - $ACT_DTL6$&#10; * @ACT_DTL7       - $ACT_DTL7$&#10; * @ACT_DTL8       - $ACT_DTL8$&#10; * @ACT_DTL9       - $ACT_DTL9$&#10; * @ACT_DTL10      - $ACT_DTL10$&#10; * @ZIPCODE        - $ZIPCODE$&#10; * @DEVICENAME     - $DEVICENAME$&#10; **/" description="CTC 로그 호출" toReformat="false" toShortenFQNames="true">
+    <variable name="KO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL5" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL6" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL7" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL8" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL9" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT_DTL10" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ZIPCODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEVICENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

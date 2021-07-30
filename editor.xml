@@ -14,7 +14,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="\bctc\b.*">
+    <pattern icon="question" useCustomColors="true" pattern="\bctc|CTC\b.*">
       <option name="FOREGROUND" value="4182c0" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
