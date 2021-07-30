@@ -4,7 +4,7 @@
     <property name="created">2021-07-31T00:43:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-07-31T00:43:51</property>
+    <property name="modified">2021-07-31T00:49:32</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2909,7 +2909,6 @@
         <option name="FOREGROUND" value="7af8ca" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
