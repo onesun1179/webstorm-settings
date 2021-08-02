@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="모든 위치" />
-    <option name="defaultScopeName" value="모든 위치" />
+    <option name="customScope" value="프로젝트 'react-lghv'" />
+    <option name="defaultScopeName" value="프로젝트 'react-lghv'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="모든 위치" />
+    <option name="SEARCH_SCOPE" value="프로젝트 'react-lghv'" />
   </component>
 </application>
