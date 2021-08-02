@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="comp" value="&#10;type Props = {}&#10;const $NAME$: CP&lt;Props&gt; = memo(() =&gt; {&#10;    return null&#10;})&#10;$NAME$.displayName = &quot;$NAME$&quot;" description="컴포넌트" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
