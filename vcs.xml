@@ -46,6 +46,10 @@
           <option name="url" value="http://git.unitsoft.kr:13000/leedongwon/hv" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.unitsoft.kr:13000/LGHV/lghv-webapp-frame" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\onesu\WebstormProjects" />
