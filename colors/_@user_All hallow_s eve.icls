@@ -3,7 +3,7 @@
     <property name="created">2021-07-31T00:43:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-08-30T09:59:48</property>
+    <property name="modified">2021-09-01T21:51:38</property>
     <property name="originalScheme">All hallow's eve</property>
   </metaInfo>
   <colors>
@@ -834,8 +834,8 @@
         <option name="FOREGROUND" value="66cc33" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -932,7 +932,7 @@
         <option name="BACKGROUND" value="0" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a6da0" />
