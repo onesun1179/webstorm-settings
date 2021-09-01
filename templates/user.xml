@@ -5,4 +5,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="keepData" value="const { $name$, set$Name$ } = useKeepData(&quot;$name$&quot;, $defaultValue$)" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Name" expression="capitalize(name)" defaultValue="" alwaysStopAt="true" />
+    <variable name="defaultValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
