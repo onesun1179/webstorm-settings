@@ -4,7 +4,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="comment-define" value="/*****************************************************&#10; *                      define - Start&#10; *****************************************************/&#10; $SELECTION$&#10; /*****************************************************&#10; *                      define - End&#10; *****************************************************/" toReformat="false" toShortenFQNames="true">
+  <template name="comment-define" value="/*****************************************************&#10; *                      define - Start&#10; *****************************************************/&#10; $SELECTION$&#10; /*****************************************************&#10; *                      define - End&#10; *****************************************************/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
