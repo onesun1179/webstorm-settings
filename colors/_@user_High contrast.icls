@@ -1,15 +1,16 @@
 <scheme name="_@user_High contrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-07-31T00:43:06</property>
+    <property name="created">2021-09-07T22:24:47</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-09-06T05:25:55</property>
+    <property name="ideVersion">2021.2.1.0.0</property>
+    <property name="modified">2021-09-07T22:30:40</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="9924" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="ActionButton.iconTextForeground" value="ffffff" />
+    <option name="BookmarkIcon.background" value="e0861f" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
@@ -40,8 +41,12 @@
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="cccccc8c" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
+    <option name="LOOKUP_COLOR" value="281a33" />
     <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
     <option name="MODIFIED_LINES_COLOR" value="1aabff" />
+    <option name="MnemonicIcon.background" value="0" />
+    <option name="MnemonicIcon.borderColor" value="e0861f" />
+    <option name="MnemonicIcon.foreground" value="ffffff" />
     <option name="NOTIFICATION_BACKGROUND" value="80" />
     <option name="QUESTION_HINT" value="5380" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
@@ -69,7 +74,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -549,6 +554,17 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="153811" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
