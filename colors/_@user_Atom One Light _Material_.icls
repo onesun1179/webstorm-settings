@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-09-07T22:24:47</property>
+    <property name="created">2021-07-31T00:43:06</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-09-16T20:55:28</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
+    <property name="modified">2021-09-16T10:03:55</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,25 +13,20 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
-    <option name="ActionButton.hoverBackground" value="dbdbdcc0" />
-    <option name="ActionButton.iconTextForeground" value="7f7f7f" />
-    <option name="ActionButton.pressedBackground" value="dbdbdc" />
-    <option name="BookmarkIcon.background" value="2979ff" />
     <option name="CARET_COLOR" value="557ecf" />
     <option name="CARET_ROW_COLOR" value="f2f2f2" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
@@ -47,11 +42,11 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="986801" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="fdfdfd" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="fefefe" />
-    <option name="DOCUMENTATION_COLOR" value="eaeaeb" />
+    <option name="DOCUMENTATION_COLOR" value="fafafa" />
     <option name="DOC_COMMENT_GUIDE" value="9d9d9f" />
     <option name="DOC_COMMENT_LINK" value="184bc" />
     <option name="FILESTATUS_ADDED" value="50a14e" />
-    <option name="FILESTATUS_COPIED" value="50a14e" />
+    <option name="FILESTATUS_COPIED" value="73c990" />
     <option name="FILESTATUS_DELETED" value="a0a1a7" />
     <option name="FILESTATUS_HIJACKED" value="a626a4" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
@@ -67,51 +62,24 @@
     <option name="FILESTATUS_SUPPRESSED" value="383a42" />
     <option name="FILESTATUS_SWITCHED" value="4078f2" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="57b6c2" />
+    <option name="FILESTATUS_addedOutside" value="50a14e" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="4078f2" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e5e5e5" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="d3d4d5" />
     <option name="INFORMATION_HINT" value="fafafa" />
-    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="fafafa" />
-    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="e5e5e6" />
-    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="eaeaeb" />
     <option name="LINE_NUMBERS_COLOR" value="9d9d9f" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b216f" />
     <option name="METHOD_SEPARATORS_COLOR" value="d3d4d5" />
     <option name="MODIFIED_LINES_COLOR" value="526fff" />
-    <option name="MODIFIED_TAB_ICON" value="2979ff" />
     <option name="MT_ADDED" value="73c990" />
     <option name="MT_DELETED" value="ff6347" />
-    <option name="MT_FILESTATUS_ADDED" value="50a14e" />
-    <option name="MT_FILESTATUS_COPIED" value="50a14e" />
-    <option name="MT_FILESTATUS_DELETED" value="a0a1a7" />
-    <option name="MT_FILESTATUS_HIJACKED" value="a626a4" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="MT_FILESTATUS_MERGED" value="4078f2" />
-    <option name="MT_FILESTATUS_MODIFIED" value="986801" />
-    <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="MT_FILESTATUS_RENAMED" value="a626a4" />
-    <option name="MT_FILESTATUS_SUPPRESSED" value="383a42" />
-    <option name="MT_FILESTATUS_SWITCHED" value="4078f2" />
-    <option name="MT_FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="MT_FILESTATUS_addedOutside" value="57b6c2" />
-    <option name="MT_FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="MT_FILESTATUS_modifiedOutside" value="4078f2" />
     <option name="MT_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_MODIFIED" value="e2c08d" />
     <option name="MT_RENAMED" value="6494ed" />
     <option name="MT_SUPPRESSED" value="383a42" />
-    <option name="MnemonicIcon.background" value="e5e5e6" />
-    <option name="MnemonicIcon.borderColor" value="e5e5e6" />
-    <option name="MnemonicIcon.foreground" value="232324" />
     <option name="NOTIFICATION_BACKGROUND" value="f2f2f2" />
     <option name="NOT_CHANGED" value="232324" />
     <option name="PROMOTION_PANE" value="d3d4d5" />
@@ -238,11 +206,6 @@
       </value>
     </option>
     <option name="BASH.SHEBANG" baseAttributes="" />
-    <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="2979ff" />
-      </value>
-    </option>
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -801,7 +764,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d5e9cd" />
+        <option name="BACKGROUND" value="a5c261" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1228,17 +1191,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
-    <option name="INLAY_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="232423" />
-        <option name="BACKGROUND" value="dbdbdc" />
-      </value>
-    </option>
-    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
-      <value>
-        <option name="FOREGROUND" value="7f7f7f" />
-      </value>
-    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="232423" />
@@ -1298,11 +1250,6 @@
         <option name="FOREGROUND" value="4078f2" />
       </value>
     </option>
-    <option name="JS.GET_SET">
-      <value>
-        <option name="FOREGROUND" value="184bc" />
-      </value>
-    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -1312,11 +1259,6 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="986801" />
-      </value>
-    </option>
-    <option name="JS.INLINE">
-      <value>
-        <option name="FOREGROUND" value="184bc" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1351,11 +1293,6 @@
       </value>
     </option>
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="JS.PROTOTYPE">
-      <value>
-        <option name="FOREGROUND" value="e4564a" />
-      </value>
-    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="50a14e" />
@@ -2825,7 +2762,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="222329" />
+        <option name="FOREGROUND" value="a0a1a7" />
       </value>
     </option>
     <option name="Number">
@@ -2978,11 +2915,6 @@
       <value>
         <option name="FOREGROUND" value="4078f2" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="PHP_THIS_VAR">
-      <value>
-        <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -3636,25 +3568,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="TS.ANY">
-      <value>
-        <option name="FOREGROUND" value="184bc" />
-      </value>
-    </option>
-    <option name="TS.INLINE">
-      <value>
-        <option name="FOREGROUND" value="184bc" />
-      </value>
-    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="50a14e" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="TS.PRIM_TYPE">
-      <value>
-        <option name="FOREGROUND" value="184bc" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
