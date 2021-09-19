@@ -46,6 +46,10 @@
           <option name="url" value="http://git.unitsoft.kr:13000/leedongwon/hv" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.9.26.18:30000/uplus/home/src/branch/devlop-merge" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\onesu\WebstormProjects" />
