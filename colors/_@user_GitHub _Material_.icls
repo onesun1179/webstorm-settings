@@ -4,7 +4,7 @@
     <property name="created">2021-07-31T00:43:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-09-29T11:18:04</property>
+    <property name="modified">2021-10-01T09:51:56</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -329,7 +329,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -350,11 +350,11 @@
         <option name="FOREGROUND" value="6f42c1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Closure braces">
       <value />
     </option>
@@ -451,7 +451,7 @@
         <option name="FOREGROUND" value="24292e" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="6f42c1" />
@@ -508,8 +508,8 @@
         <option name="FOREGROUND" value="5cc4" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="" />
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="24292e" />
@@ -892,10 +892,10 @@
         <option name="FOREGROUND" value="24292e" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JADE_FILE_PATH" baseAttributes="" />
+    <option name="JADE_FILTER_NAME" baseAttributes="" />
+    <option name="JADE_JS_BLOCK" baseAttributes="" />
+    <option name="JADE_STATEMENTS" baseAttributes="" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="32f62" />
@@ -943,7 +943,7 @@
         <option name="FOREGROUND" value="5cc5" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="32f62" />
@@ -2731,7 +2731,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="22863a" />
@@ -2740,7 +2740,7 @@
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="e36209" />
