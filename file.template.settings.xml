@@ -2,6 +2,13 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="mdx.mdx" reformat="true" live-template-enabled="true" />
+      <template name="nest.js" file-name="${NAME}" reformat="true" live-template-enabled="false">
+        <template name="nest.js.child.1.js" file-name="${NAME}/models" reformat="true" live-template-enabled="false" />
+        <template name="nest.js.child.0.ts" file-name="${NAME}/${NAME}.resolver" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="nest.js.child.0.ts" file-name="${NAME}/${NAME}.resolver" reformat="true" live-template-enabled="false" />
+      <template name="nest.js.child.1.js" file-name="${NAME}/models" reformat="true" live-template-enabled="false" />
+      <template name="nestjs resolver.ts" file-name="${NAME}.resolver.ts" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
