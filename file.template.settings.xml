@@ -3,11 +3,19 @@
     <default_templates>
       <template name="mdx.mdx" reformat="true" live-template-enabled="true" />
       <template name="nestjs folder.js" file-name="${NAME}/${NAME}" reformat="true" live-template-enabled="false">
+        <template name="nestjs folder.js.child.5.ts" file-name="${NAME}/${NAME}.input" reformat="true" live-template-enabled="false" />
+        <template name="nestjs folder.js.child.4.ts" file-name="${NAME}/${NAME}.service" reformat="true" live-template-enabled="false" />
+        <template name="nestjs folder.js.child.3.ts" file-name="${NAME}/${NAME}.controller" reformat="true" live-template-enabled="false" />
+        <template name="nestjs folder.js.child.2.ts" file-name="${NAME}/${NAME}.module" reformat="true" live-template-enabled="false" />
         <template name="nestjs folder.js.child.0.ts" file-name="${NAME}/${NAME}.resolver" reformat="true" live-template-enabled="true" />
-        <template name="nestjs folder.js.child.1.ts" file-name="${NAME}/${NAME}.models" reformat="true" live-template-enabled="false" />
+        <template name="nestjs folder.js.child.1.ts" file-name="${NAME}/${NAME}.model" reformat="true" live-template-enabled="false" />
       </template>
       <template name="nestjs folder.js.child.0.ts" file-name="${NAME}/${NAME}.resolver" reformat="true" live-template-enabled="true" />
-      <template name="nestjs folder.js.child.1.ts" file-name="${NAME}/${NAME}.models" reformat="true" live-template-enabled="false" />
+      <template name="nestjs folder.js.child.1.ts" file-name="${NAME}/${NAME}.model" reformat="true" live-template-enabled="false" />
+      <template name="nestjs folder.js.child.2.ts" file-name="${NAME}/${NAME}.module" reformat="true" live-template-enabled="false" />
+      <template name="nestjs folder.js.child.3.ts" file-name="${NAME}/${NAME}.controller" reformat="true" live-template-enabled="false" />
+      <template name="nestjs folder.js.child.4.ts" file-name="${NAME}/${NAME}.service" reformat="true" live-template-enabled="false" />
+      <template name="nestjs folder.js.child.5.ts" file-name="${NAME}/${NAME}.input" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
