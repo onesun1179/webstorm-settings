@@ -13,6 +13,7 @@
       <template name="nestjs folder..child.2.ts" file-name="${NAME}/${NAME}.module" reformat="true" live-template-enabled="false" />
       <template name="nestjs folder..child.3.ts" file-name="${NAME}/${NAME}.service" reformat="true" live-template-enabled="false" />
       <template name="nestjs folder..child.4.ts" file-name="${NAME}/${NAME}.input" reformat="true" live-template-enabled="false" />
+      <template name="Typescript Slice file.ts" file-name="${NAME}.slice" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
