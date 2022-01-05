@@ -54,6 +54,18 @@
           <option name="url" value="https://github.com/storybookjs/storybook" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nestjs/nest" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/carbon-design-system/carbon-for-ibm-dotcom-nextjs-template#getting-started" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/carbon-design-system/carbon-for-ibm-dotcom-nextjs-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\onesu\WebstormProjects" />
