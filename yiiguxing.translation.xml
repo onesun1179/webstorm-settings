@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="필수" />
+      <item value="대표자" />
+      <item value="대표 설정" />
+      <item value="추가적인" />
+      <item value="장바구니" />
       <item value="팝업" />
       <item value="mount" />
     </histories>
