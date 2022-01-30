@@ -1,0 +1,7 @@
+<templateSet group="공통">
+  <template name="중간점" value="·" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
