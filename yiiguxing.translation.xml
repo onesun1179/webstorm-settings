@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="rderi" />
       <item value="필수" />
       <item value="대표자" />
       <item value="대표 설정" />
@@ -15,12 +16,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="KOREAN" value="2" />
+        <entry key="KOREAN" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641874680309" />
+    <option name="lastTrimTime" value="1645679127589" />
   </component>
   <component name="Settings">
     <option name="takeWordWhenDialogOpens" value="true" />
