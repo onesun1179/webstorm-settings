@@ -4,7 +4,7 @@
     <property name="created">2022-01-11T11:40:55</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-03-14T14:56:29</property>
+    <property name="modified">2022-03-19T14:28:01</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1214,22 +1214,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="373b35" />
+        <option name="BACKGROUND" value="40444f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e3b39" />
+        <option name="BACKGROUND" value="3d484c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="373242" />
+        <option name="BACKGROUND" value="44494b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2b3a41" />
+        <option name="BACKGROUND" value="484649" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="484147" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="483c44" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

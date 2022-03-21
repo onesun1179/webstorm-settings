@@ -4,7 +4,7 @@
     <property name="created">2021-12-13T13:31:12</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-14T17:43:31</property>
+    <property name="modified">2022-03-19T14:28:01</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1019,22 +1019,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="373937" />
+        <option name="BACKGROUND" value="404251" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e393b" />
+        <option name="BACKGROUND" value="3d474e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="373044" />
+        <option name="BACKGROUND" value="44484c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2b3843" />
+        <option name="BACKGROUND" value="48444b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="483f48" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="483b46" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
