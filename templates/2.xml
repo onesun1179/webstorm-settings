@@ -10,7 +10,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="apipost" value="wrapApi(async (param: {&#10;    }) =&gt; await axios.post&lt;ApiResult&lt;{&#10;    }&gt;&gt;(&quot;&quot;, null, {&#10;        params : param&#10;    }))," toReformat="false" toShortenFQNames="true">
+  <template name="apipost" value="wrapApi(async (param: {&#10;    }) =&gt; await axios.post&lt;ApiResult&lt;{&#10;    }&gt;&gt;(&quot;&quot;, param))," toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
