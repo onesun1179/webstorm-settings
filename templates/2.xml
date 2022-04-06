@@ -10,12 +10,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="apipost" value="wrapApi(async (param: {&#10;    }) =&gt; await axios.post&lt;ApiResult&lt;{&#10;    }&gt;&gt;(&quot;&quot;, param))," toReformat="false" toShortenFQNames="true">
+  <template name="apipost" value="wrapApi(async (param: {&#10;    }) =&gt; await axios.post&lt;ApiResult&lt;{&#10;    }&gt;&gt;(&quot;&quot;, param))," description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="apiget" value="wrapApi(&#10;        async (param: {  }) =&gt;&#10;            await axios.get&lt;ApiResult&lt;{}&gt;&gt;('', {&#10;                params: param,&#10;            })&#10;    )," toReformat="false" toShortenFQNames="true">
+  <template name="apiget" value="wrapApi(&#10;        async (param: {  }) =&gt;&#10;            await axios.get&lt;ApiResult&lt;{}&gt;&gt;('', {&#10;                params: param,&#10;            })&#10;    )," description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
