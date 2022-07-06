@@ -1,9 +1,9 @@
 <scheme name="_@user_VibrantInk" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-07-31T00:43:06</property>
+    <property name="created">2022-07-06T10:19:41</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2022-03-19T14:28:01</property>
+    <property name="ideVersion">2022.1.3.0.0</property>
+    <property name="modified">2022-07-06T10:20:31</property>
     <property name="originalScheme">VibrantInk</property>
   </metaInfo>
   <colors>
@@ -40,31 +40,6 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
-      </value>
-    </option>
-    <option name="BUILDOUT.KEY">
-      <value>
-        <option name="FOREGROUND" value="ff6600" />
-      </value>
-    </option>
-    <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
-      <value>
-        <option name="FOREGROUND" value="ff6600" />
-      </value>
-    </option>
-    <option name="BUILDOUT.LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="9933cc" />
-      </value>
-    </option>
-    <option name="BUILDOUT.SECTION_NAME">
-      <value>
-        <option name="FOREGROUND" value="339999" />
-      </value>
-    </option>
-    <option name="BUILDOUT.VALUE">
-      <value>
-        <option name="FOREGROUND" value="66ff00" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BAD_CHARACTER">
