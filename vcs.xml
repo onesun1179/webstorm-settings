@@ -14,6 +14,10 @@
           <option name="url" value="http://10.9.26.18:30000/uplus/publishing_home" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.unitsoft.kr:13000/MediaCommerce/lghv-mediacommerce-webapp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\USER\WebstormProjects" />
